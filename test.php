@@ -1,6 +1,6 @@
 <?php
 
 
-echo "안녕하신가 GitHub";
+echo "안녕하신교 GitHub";
 
 ?>
